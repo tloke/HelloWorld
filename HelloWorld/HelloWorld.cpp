@@ -3,9 +3,13 @@
 
 #include "stdafx.h"
 
+using namespace std;
 
 int main()
 {
+    cout << "Hello World" << std::endl;
+    char c;
+    cin >> c;
     return 0;
 }
 
